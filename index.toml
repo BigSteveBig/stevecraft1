@@ -95,6 +95,11 @@ hash = "92038ddcae9f378f4119f82a03b6ee7a9a98bf843d3f815ad26c56ed02921b3e"
 metafile = true
 
 [[files]]
+file = "mods/fastboot.pw.toml"
+hash = "a384fc8e264e963dc71d6bf37bafc4f07b21f28dbafcef9133d9981ec8d34cc3"
+metafile = true
+
+[[files]]
 file = "mods/flowering-leaves.pw.toml"
 hash = "881addbd95b932c656ab5b45ed1c05592b0964b323a1d63fd146d8cf59bf758d"
 metafile = true
