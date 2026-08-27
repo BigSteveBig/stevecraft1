@@ -1,0 +1,18 @@
+name = "BTA! packwiz example modpack"
+author = "camoweed"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e2961a49fba2c8b16f288b56c65edcb6d5bfd758b8507cae5d14d2f0fd3f1b30"
+
+[versions]
+bta = "8.0"
+fabric = "0.18.4-bta.11"
+minecraft = "b1.7.3"
+unsup = "1.2.7"
+
+[options]
+acceptable-game-versions = ["b1.7.3"]

@@ -1,0 +1,13 @@
+name = "Fastboot"
+filename = "fastboot-1.0.0+8.0.jar"
+side = "client"
+
+[download]
+url = "https://codeberg.org/bigsir24/bta-fastboot/releases/download/1.0.0+8.0/fastboot-1.0.0+8.0.jar"
+hash-format = "sha256"
+hash = "11aeba870fddc8d3d7c3fbc363fafa91613935d09fd5af4f64da97bfb640d0d8"
+
+[option]
+optional = true
+default = true
+description = "Makes the game load faster."
