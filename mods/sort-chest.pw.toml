@@ -6,8 +6,3 @@ side = "both"
 url = "https://github.com/MilosGames19/sort-chest/releases/download/V2.2.0/better-sort-chest-2.2.0.jar"
 hash-format = "sha256"
 hash = "58f5b49298c2a55d8a69ce06c4bf7b8be8103760e18b861b9e10344a016f1bbe"
-
-[option]
-optional = true
-default = true
-description = ""
