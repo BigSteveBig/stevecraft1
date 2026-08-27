@@ -6,3 +6,8 @@ side = "both"
 url = "https://github.com/ThisIsVerse/BTA-3D-Skin-Layers/releases/download/v1.0.0/bta3dskinlayers-1.0.0+8.0.1.jar"
 hash-format = "sha256"
 hash = "bb422d103a30146ce39a747d526696e4579d467ef714c3427505fc2270a839c0"
+
+[option]
+optional = true
+default = true
+description = ""
