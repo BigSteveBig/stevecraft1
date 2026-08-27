@@ -55,6 +55,11 @@ hash = "ac5c9d214e54cca221a961ebe5c286bb1e5028cd724057a012d36aa556ead55d"
 metafile = true
 
 [[files]]
+file = "mods/blueprints.pw.toml"
+hash = "7395ea92b6db85d3844b5d8e936a602ce316c4a5a1d75fbd992208625970b470"
+metafile = true
+
+[[files]]
 file = "mods/bta-3d-skin-layers.pw.toml"
 hash = "77f9d4ad42110e570afd0b165284d377ba09d2fb23c0d23db0afa31bee380a4c"
 metafile = true
