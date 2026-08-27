@@ -6,3 +6,8 @@ side = "both"
 url = "https://github.com/Testure/TMB/releases/download/v2.2.2/tmb-2.2.2.jar"
 hash-format = "sha256"
 hash = "b71e19de56636b6ce94b26c724ff048dc78b423772b3b6cbcf9cc37819d989f1"
+
+[option]
+optional = true
+default = true
+description = ""
