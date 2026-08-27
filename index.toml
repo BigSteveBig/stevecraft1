@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastboot.pw.toml"
-hash = "b073e76982a133f5960807e7004c718f7be2c3d1f87cb1931ebe675834456fd7"
+hash = "640e93171bcb478ea32050a855f6158657dc14f885d1a0242e2126e287a93f17"
 metafile = true
 
 [[files]]
