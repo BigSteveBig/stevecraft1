@@ -5,6 +5,11 @@ file = "LICENSE"
 hash = "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673"
 
 [[files]]
+file = "mods/better-than-battle-towers.pw.toml"
+hash = "ec6204d161ff1f587b105d931dedfabac12c7f4d024a95f27ede94a9c7427307"
+metafile = true
+
+[[files]]
 file = "mods/fastboot.pw.toml"
 hash = "305a34ff97e8d5d84f78f760faa604d3ac72fe96cee5ae0615d743dd5b121eac"
 metafile = true

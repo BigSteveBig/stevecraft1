@@ -1,0 +1,8 @@
+name = "Better Than Battle Towers"
+filename = "betterbattletowers-5.0.4+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/mayonaka8478/Better-than-Battle-Towers/releases/download/5.0.4%2B8.0.1/betterbattletowers-5.0.4+8.0.1.jar"
+hash-format = "sha256"
+hash = "08087c49641175ff6cc350dc8e2032c6f6331b447f7f4355a6eef78d304cfc6e"
