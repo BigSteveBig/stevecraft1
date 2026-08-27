@@ -6,3 +6,8 @@ side = "both"
 url = "https://cdn.modrinth.com/data/po1RraSI/versions/GHHcTrcN/blueprints-2.5%2B8.0.1.jar?mr_download_reason=standalone"
 hash-format = "sha256"
 hash = "c5885b53bd4eb3dd12c44579c8254bd9088a0cea1f0e5671c7c1c008dbd66085"
+
+[option]
+optional = true
+default = true
+description = ""
