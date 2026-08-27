@@ -1,6 +1,6 @@
 name = "Fastboot"
 filename = "fastboot-1.0.0+8.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://codeberg.org/bigsir24/bta-fastboot/releases/download/1.0.0+8.0/fastboot-1.0.0+8.0.jar"
