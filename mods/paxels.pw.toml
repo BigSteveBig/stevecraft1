@@ -1,0 +1,8 @@
+name = "Paxels"
+filename = "paxels-1.5.0+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hWoBQMX1/versions/j160Zat8/paxels-1.5.0%2B8.0.1.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "2c43a451f1bef8df1ef047780c4b7ff86fee1f49e59ed456e80c4d783f18870a"

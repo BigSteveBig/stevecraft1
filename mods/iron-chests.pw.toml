@@ -1,0 +1,8 @@
+name = "Iron Chests"
+filename = "afloydironchest-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/UselessSolutions/bta-ironchests/releases/download/v3.0.1-8.0.1/afloydironchest-3.0.1.jar"
+hash-format = "sha256"
+hash = "bc0f8722a3c74a72c7c5bfbab03129ddb940dd8ea91f7a05c8f4991677baa13e"

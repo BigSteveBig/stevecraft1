@@ -1,0 +1,8 @@
+name = "Atomic"
+filename = "atomic-1.0.0+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/BlueMoonJune/Atomic/releases/download/1.0.0/atomic-1.0.0+8.0.1.jar"
+hash-format = "sha256"
+hash = "688c5e799d87435d7971191e7c57798ab15281395a6d7323e97f137fabedbbec"

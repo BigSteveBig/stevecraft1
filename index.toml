@@ -5,11 +5,191 @@ file = "LICENSE"
 hash = "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673"
 
 [[files]]
+file = "mods/armor-hud.pw.toml"
+hash = "36b67990003617694d154303ce237d01b89230c094558847e87a898eac26ec28"
+metafile = true
+
+[[files]]
+file = "mods/atomic.pw.toml"
+hash = "d43bbca5fe4cc03869bbf32852fce7f701c9e3b83c07717cc63ed83811541f7d"
+metafile = true
+
+[[files]]
+file = "mods/better-than-ambiance.pw.toml"
+hash = "08f5c30bdb8235e558aaa6e231849acecf7c951f56d09ba672c7d5ba8b3e0119"
+metafile = true
+
+[[files]]
 file = "mods/better-than-battle-towers.pw.toml"
 hash = "ec6204d161ff1f587b105d931dedfabac12c7f4d024a95f27ede94a9c7427307"
 metafile = true
 
 [[files]]
+file = "mods/better-than-fishing.pw.toml"
+hash = "81a4ce9d0e4b0892e23ce7f8ced413575188ad3934e97090bd2178c4a8249aae"
+metafile = true
+
+[[files]]
+file = "mods/better-with-bags.pw.toml"
+hash = "2c478945e1ace98c5c975355e72e6ddfea67f48bada9200752e90ced86f3280d"
+metafile = true
+
+[[files]]
+file = "mods/better-with-enchanting.pw.toml"
+hash = "d9612fa1a14f7655e0d48a41c1bf515894c34641511cd86818fc6c2727c1d8f5"
+metafile = true
+
+[[files]]
+file = "mods/better-with-hands.pw.toml"
+hash = "878d931548aaac6686f3a489ea13406e2f2836b28f59774ea10eabd5098a3201"
+metafile = true
+
+[[files]]
+file = "mods/better-with-magnets.pw.toml"
+hash = "f298dd5954e084646839db8060789ba73b90498ef97c3d18c065e313d91a0919"
+metafile = true
+
+[[files]]
+file = "mods/blueprints-bta.pw.toml"
+hash = "ac5c9d214e54cca221a961ebe5c286bb1e5028cd724057a012d36aa556ead55d"
+metafile = true
+
+[[files]]
+file = "mods/bta-3d-skin-layers.pw.toml"
+hash = "77f9d4ad42110e570afd0b165284d377ba09d2fb23c0d23db0afa31bee380a4c"
+metafile = true
+
+[[files]]
+file = "mods/bta-skulls.pw.toml"
+hash = "5feef7a4ce2283536518ddbf02f88ea369e26f94a742d120fe7bfc551c007922"
+metafile = true
+
+[[files]]
+file = "mods/btwaila.pw.toml"
+hash = "73f73553d7239aabaf08625a3845f822cfe65c8c45381c56b577161c7acb963c"
+metafile = true
+
+[[files]]
+file = "mods/cloud-layers.pw.toml"
+hash = "5bcf6767b1da900f8f8166fafbbee7b1bc0dddeb9a5fffcc4bcb5ab6bb926b43"
+metafile = true
+
+[[files]]
+file = "mods/commandly.pw.toml"
+hash = "62d2e9364bb9334b7bca5657cf840d904179827633aa1dfc7f9e9493ba26c4a4"
+metafile = true
+
+[[files]]
+file = "mods/cupboards.pw.toml"
+hash = "7af472b173be87e9f73f5c61b6c79c8ee2a4a92518fec02e4124d910c4f69cc5"
+metafile = true
+
+[[files]]
+file = "mods/extra-dyables.pw.toml"
+hash = "92038ddcae9f378f4119f82a03b6ee7a9a98bf843d3f815ad26c56ed02921b3e"
+metafile = true
+
+[[files]]
 file = "mods/fastboot.pw.toml"
 hash = "305a34ff97e8d5d84f78f760faa604d3ac72fe96cee5ae0615d743dd5b121eac"
+metafile = true
+
+[[files]]
+file = "mods/flowering-leaves.pw.toml"
+hash = "881addbd95b932c656ab5b45ed1c05592b0964b323a1d63fd146d8cf59bf758d"
+metafile = true
+
+[[files]]
+file = "mods/goldenbat.pw.toml"
+hash = "cf8a5cb5d644f2ed0f58bb62f914ed6c5f77e72017810cda057e454223c0c4e3"
+metafile = true
+
+[[files]]
+file = "mods/improved-signs.pw.toml"
+hash = "50557f2c38a1bf7d3be80014ce3d6b94aada9be12171658842ca9738c70a925f"
+metafile = true
+
+[[files]]
+file = "mods/indev-plus-paintings.pw.toml"
+hash = "d21326edcc440d8a471623271543c5011136cd50f2f968dfa880b4b757387120"
+metafile = true
+
+[[files]]
+file = "mods/infdev-plus-paintings.pw.toml"
+hash = "9dd0f5327a17176980161615ffe08da8a6a05fb74df8c5e6eca500d794679563"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "f1c6a7e58a74ba1d901651bdf6a5e17734e7e9fb4bc87173e7b854ceac103e60"
+metafile = true
+
+[[files]]
+file = "mods/iron-furnaces.pw.toml"
+hash = "d164b274ea149941a9a0ec24fe1b2821c1bf8f5e3a2363a2bf426205e693ac24"
+metafile = true
+
+[[files]]
+file = "mods/lightly.pw.toml"
+hash = "baa24b9a1d92cecbeb179018c1cb1bb6584e528b74963670c69610e21a4fe2e6"
+metafile = true
+
+[[files]]
+file = "mods/melib.pw.toml"
+hash = "9bb5d74abcaa6bd0b1e481fb4774cbccb67d2a3825f71e13e205305e96beac86"
+metafile = true
+
+[[files]]
+file = "mods/mo-creatures-assets.pw.toml"
+hash = "18681f0654fbacb18102148e2429b9332742f9cfb7cb1a249ede43a40997864c"
+metafile = true
+
+[[files]]
+file = "mods/mo-creatures.pw.toml"
+hash = "d7e6ff5ae30d1337644f0f3cace6f3bdd3d0e160ebefab7667591152f9971186"
+metafile = true
+
+[[files]]
+file = "mods/modern-paintings-backport.pw.toml"
+hash = "0e90d9e2d7c19435355a742896fe4f355fef90d556b265f9704ed7268d2d8b03"
+metafile = true
+
+[[files]]
+file = "mods/more-snow.pw.toml"
+hash = "6c06e1846c0d3bceec784290d80f6b83bc783bd4d4588ab2e402bc89b683de85"
+metafile = true
+
+[[files]]
+file = "mods/paxels.pw.toml"
+hash = "c95b1b61d312d73e9adfaa293527cf4d131c39a09be43ddda783cd56ca7695d8"
+metafile = true
+
+[[files]]
+file = "mods/retro-skin-loader.pw.toml"
+hash = "a8ac07fe09af079b9bb795ecb66439d2d968f0cc3c561cf8bf02f72887fe4651"
+metafile = true
+
+[[files]]
+file = "mods/sdof.pw.toml"
+hash = "2e92c3be1647093a959661dc2a57bb3686637878cd495e4ae52345bd72c6d69a"
+metafile = true
+
+[[files]]
+file = "mods/sort-chest.pw.toml"
+hash = "36c5d08d3c535ed59fbbd6b491538943e3507c7aa6a8358ecb6f1d060abb02d3"
+metafile = true
+
+[[files]]
+file = "mods/too-many-blocks.pw.toml"
+hash = "d216c81b9d2ce469ec40e6c5e0d6555b91f089f3cea1a2f0f34cde571b4b36b6"
+metafile = true
+
+[[files]]
+file = "mods/useless-numerical.pw.toml"
+hash = "3d41aeee43396a00edeb67b70119b5e90e23b918077e3c9ec3861d7e13e65e1b"
+metafile = true
+
+[[files]]
+file = "mods/wear-and-tear.pw.toml"
+hash = "1fdf7dc4af8b1084638a3e37e82cc5654cfefe02d8010282bbcf79b69c8ed188"
 metafile = true

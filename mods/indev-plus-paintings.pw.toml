@@ -1,0 +1,8 @@
+name = "Indev Plus Paintings"
+filename = "indevpluspaintings-1.1.0+8.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Pasithea0/BTA-indev-plus-painings/releases/download/v1.1.0/indevpluspaintings-1.1.0+8.0.jar"
+hash-format = "sha256"
+hash = "ff4db89596d7642821bab3ba3ee1dd9f426cbfda35c5ce85d6000ec55eaa6e28"

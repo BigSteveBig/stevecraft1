@@ -1,0 +1,8 @@
+name = "SDOF"
+filename = "sdof-0.3.2+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/trans-siberian/super-duper-octo-fishstick/releases/download/0.3.2/sdof-0.3.2+8.0.1.jar"
+hash-format = "sha256"
+hash = "ef4f60cab974e7c3207ea32f4f64b112d232a0ba1907f2ffe196fe4db01cd3fd"

@@ -1,0 +1,8 @@
+name = "BTA Skulls"
+filename = "btaskulls-1.0.1+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/ThisIsVerse/BTA-Skulls/releases/download/v1.0.1/btaskulls-1.0.1+8.0.1.jar"
+hash-format = "sha256"
+hash = "eb08c8e1852920383874e82cb95bf1b69976758d488639830020bd3d52183292"

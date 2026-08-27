@@ -1,0 +1,8 @@
+name = "Melib"
+filename = "melib-1.0.0+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/MelonMojito/Melib/releases/download/v1.0.0/melib-1.0.0+8.0.1.jar"
+hash-format = "sha256"
+hash = "15c3531a98ccd9b907dae07fc3048dd2aacc1e4c74e91927f239f02d5f083f02"

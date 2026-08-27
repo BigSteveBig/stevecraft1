@@ -1,0 +1,8 @@
+name = "Mo Creatures Assets"
+filename = "DrZharks_MoCreatures_Mod_v2.12.2_1.zip"
+side = "both"
+
+[download]
+url = "https://b2.mcarchive.net/file/mcarchive/77cac72cd428ea428eaa0a649ce8f901f7319ded7c5a88d04347e3fdf6343ec8/DrZharks_MoCreatures_Mod_v2.12.2_1.zip"
+hash-format = "sha256"
+hash = "77cac72cd428ea428eaa0a649ce8f901f7319ded7c5a88d04347e3fdf6343ec8"

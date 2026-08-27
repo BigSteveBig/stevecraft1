@@ -1,0 +1,8 @@
+name = "Better With Enchanting"
+filename = "BetterWithEnchanting-1.1.9+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Redart15/BetterWithEnchanting/releases/download/1.1.9%2B8.0.1/BetterWithEnchanting-1.1.9+8.0.1.jar"
+hash-format = "sha256"
+hash = "ac31cbac68df17ba15b4c5d37501d27ef55027baf9b955d45af2af5f7878cd49"

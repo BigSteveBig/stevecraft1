@@ -1,0 +1,8 @@
+name = "Flowering Leaves"
+filename = "floweringleaves-2.0.1+8.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/horiuchii/bta-flowered-leaves/releases/download/v2.0.1/floweringleaves-2.0.1+8.0.jar"
+hash-format = "sha256"
+hash = "6811bb90bf3f3ff37978aa1abb87122e99b8695e2e2c7111f77b8b96543c4757"

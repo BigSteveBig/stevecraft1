@@ -1,0 +1,8 @@
+name = "Modern Paintings Backport"
+filename = "modernpaintings-1.0.1+8.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/DaveyL2013/modern-paintings-backport-bta/releases/download/1.0.1%2B8.0/modernpaintings-1.0.1+8.0.jar"
+hash-format = "sha256"
+hash = "b2b21df5424543a628a5fd24e4867051abf6a67c060b111977d78093e41529fc"

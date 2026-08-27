@@ -1,0 +1,8 @@
+name = "Goldenbat"
+filename = "goldenbat-1.1.2+8.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Redart15/goldenbat/releases/download/v1.1.2%2B8.0/goldenbat-1.1.2+8.0.jar"
+hash-format = "sha256"
+hash = "58ce04015cd925c2682148a7e6b28737bb0ddb98d36df0351d370a8681989a9b"

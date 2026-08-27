@@ -1,0 +1,8 @@
+name = "Commandly"
+filename = "commandly-1.1.6+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Redart15/Commandly/releases/download/1.1.6%2B8.0.1/commandly-1.1.6+8.0.1.jar"
+hash-format = "sha256"
+hash = "45f0b4113eda7e8f5f61b8a20d55f6feb4de5c1ca4442804835a705bea833b66"

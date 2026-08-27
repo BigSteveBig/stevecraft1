@@ -1,0 +1,8 @@
+name = "Retro Skin Loader"
+filename = "retroskinloader-1.0.0+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Bacrian/RetroSkinLoader/releases/download/1.0.0/retroskinloader-1.0.0+8.0.1.jar"
+hash-format = "sha256"
+hash = "93f76f079a21a5ff6e013d95a1babd533b14c9b4f65c62f8facd3837988c7dfe"

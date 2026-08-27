@@ -1,0 +1,8 @@
+name = "Improved Signs"
+filename = "improvedsigns-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/horiuchii/bta-improved-signs/releases/download/1.4.0/improvedsigns-1.4.0.jar"
+hash-format = "sha256"
+hash = "340f253d9b6622edcb8e24c32b19042ba0efa2744966a9589f0706d6b6d5859c"

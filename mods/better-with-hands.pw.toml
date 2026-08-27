@@ -1,0 +1,8 @@
+name = "Better With Hands"
+filename = "better_with_hands-1.0.2+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/MinecraftLabs/better-with-hands/releases/download/v1.0.2/better_with_hands-1.0.2+8.0.1.jar"
+hash-format = "sha256"
+hash = "8cc99a07c0515a008778e825779ced74dd7acdd4d07f18e538bf4199dbff597b"

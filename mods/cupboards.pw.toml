@@ -1,0 +1,8 @@
+name = "Cupboards"
+filename = "cupboards-1.0.9.jar"
+side = "both"
+
+[download]
+url = "https://github.com/gungun974/BTA-Cupboards/releases/download/1.0.9-8.0/cupboards-1.0.9.jar"
+hash-format = "sha256"
+hash = "8929d2cb16b19a429a0bf90c2c4a2de0ab36059a93e4dbfe2695e3f89ac622af"

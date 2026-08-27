@@ -1,0 +1,8 @@
+name = "Mo Creatures"
+filename = "creatures-1.11.5+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/colinthepwner/mo-creatures-bta/releases/download/v1.11.5/creatures-1.11.5+8.0.1.jar"
+hash-format = "sha256"
+hash = "a36fd32c580ad0d4b13b72697741fb14f0d35bacb71c841d82352c87ab120595"

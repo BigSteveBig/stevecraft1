@@ -1,0 +1,8 @@
+name = "Useless Numerical"
+filename = "uselessnumerical-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dVlGo8FN/versions/Z50oV5NW/uselessnumerical-1.1.1.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "3d35400baa540d00aebe0bb5caf22c1ecd333460508ed01432fabb9a427465c8"

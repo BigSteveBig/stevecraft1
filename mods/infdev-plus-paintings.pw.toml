@@ -1,0 +1,8 @@
+name = "Infdev Plus Paintings"
+filename = "infdevpluspaintings-1.1.0+8.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/camoweed/infdevplus-paintings-port-bta/releases/download/1.1.0/infdevpluspaintings-1.1.0+8.0.jar"
+hash-format = "sha256"
+hash = "91f167a9c1b2755f29d3b1c29425e11818fbb8d3a2d6de5b297976c7e2f38343"

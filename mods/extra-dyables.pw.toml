@@ -1,0 +1,8 @@
+name = "Extra Dyables"
+filename = "dyables-2.1.1+8.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/horiuchii/minecraft-bta-dyables/releases/download/V2.1.1/dyables-2.1.1+8.0.jar"
+hash-format = "sha256"
+hash = "f6ee9f2117dbe5042a23287a767460c75dd13e11b5492fb8271faab5360745bd"

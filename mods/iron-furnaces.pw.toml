@@ -1,0 +1,8 @@
+name = "Iron Furnaces"
+filename = "ironfurnaces-1.6.0+8.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/FutureLizard205/bta-IronFurnacesMod/releases/download/1.6.0/ironfurnaces-1.6.0+8.0.jar"
+hash-format = "sha256"
+hash = "6ff142f29b608498df44c15485e1d559e66df599f447231aaff3d80897224f91"

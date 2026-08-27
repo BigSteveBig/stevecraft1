@@ -1,0 +1,8 @@
+name = "Better With Magnets"
+filename = "betterwithmagnets-1.0.2+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/MelonMojito/Better-with-Magnets/releases/download/v1.0.2/betterwithmagnets-1.0.2+8.0.1.jar"
+hash-format = "sha256"
+hash = "3fb5b37233ded2e0d144df05cc8a2593882dd23ae2f157aa60851ae67b5a7396"

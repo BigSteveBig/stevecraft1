@@ -1,0 +1,8 @@
+name = "Better With Bags"
+filename = "better_with_bags-1.0.2+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/MinecraftLabs/better-with-bags/releases/download/v1.0.2/better_with_bags-1.0.2+8.0.1.jar"
+hash-format = "sha256"
+hash = "cbc7cf961303ce80292c415e5dbf1dfa519463dde3d776c459eae3762d14e0e4"

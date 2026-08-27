@@ -1,0 +1,8 @@
+name = "More Snow"
+filename = "moresnow-1.1.0+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Redart15/More-Snow/releases/download/1.1.0%2B8.0.1/moresnow-1.1.0+8.0.1.jar"
+hash-format = "sha256"
+hash = "abff62bc8ab62aad9a547ebc8f465affea560aa2d998e549aff7b3c4d283a153"

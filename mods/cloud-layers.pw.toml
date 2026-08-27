@@ -1,0 +1,8 @@
+name = "Cloud Layers"
+filename = "cloudlayers-1.0.1+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YzPejrJV/versions/xH1urhDQ/cloudlayers-1.0.1%2B8.0.1.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "ec28ad0a14e864e71a8405d089f1e5e8588fcf5f3a9c133baad87a903be7e2e5"

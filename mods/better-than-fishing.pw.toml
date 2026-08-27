@@ -1,0 +1,8 @@
+name = "Better Than Fishing"
+filename = "btf-1.0.4+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Bacrian/BetterThanFishing/releases/download/1.0.4/btf-1.0.4+8.0.1.jar"
+hash-format = "sha256"
+hash = "1ff9284edf04ee84dc46e44b3d39bb4bb4de2986f62ef68f7d8c5687f3cc36ed"
