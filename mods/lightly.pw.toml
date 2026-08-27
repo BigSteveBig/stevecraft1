@@ -6,3 +6,8 @@ side = "both"
 url = "https://cdn.modrinth.com/data/yjvKidNM/versions/20VmNbkH/lighty-1.1.0%2B8.0.jar?mr_download_reason=standalone"
 hash-format = "sha256"
 hash = "da815017319d6b94c035d795412b053a582401a8b0729a5a90377b04d0ecb1b3"
+
+[option]
+optional = true
+default = true
+description = ""
